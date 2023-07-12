@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952728964981",
+    "project_id": "dream-art-814bb",
+    "storage_bucket": "dream-art-814bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952728964981:android:de83d7c13f2c1144730d3c",
+        "android_client_info": {
+          "package_name": "com.dreamart.editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952728964981-6vv0ue22ruqqit64k4d5ccr5rg1nfsl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IlP_56mUc3wPnNniSIVbVjNyjR3yzOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952728964981-6vv0ue22ruqqit64k4d5ccr5rg1nfsl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
